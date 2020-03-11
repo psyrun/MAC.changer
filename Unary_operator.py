@@ -3,19 +3,19 @@
 a = 1
 
 # "+" Plus operator
-a =+a
+a = ++a
 print(a)
 
 # "~" Bitwise inversion 
-a =~a
+a = ~a
 print(a)
 
 # "-" Subtraction operator
-a -=a
+a = --a
 print(a)
 
 # output
 
 # 1
 # -2
-# 0
+# -2

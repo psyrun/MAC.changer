@@ -1,6 +1,7 @@
 # Python programming from zero to zerodays
 
 This repository belongs to those who want to learn reverse engineering specially with python.
+
 ## Print Arguments
 
 ## Escape sequence
@@ -9,12 +10,16 @@ This repository belongs to those who want to learn reverse engineering specially
 
 ## Strings Concatination
 
-## Airthematic operators
+## Operators
 
-## Unary operator
+### Airthematic operators
 
-## Relational/Logical operator
+### Unary operator
 
-## Conditional operator
+### Relational/Logical operator
+
+### Assignment operator
+
+### Conditional operator
 
 ## Library functions
