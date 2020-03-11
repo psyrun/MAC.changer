@@ -10,3 +10,11 @@ This repository belongs to those who want to learn reverse engineering specially
 ## Strings Concatination
 
 ## Airthematic operators
+
+## Unary operator
+
+## Relational/Logical operator
+
+## Conditional operator
+
+## Library functions
