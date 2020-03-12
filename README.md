@@ -23,3 +23,7 @@ This repository belongs to those who want to learn reverse engineering specially
 ### Conditional operator
 
 ## Library functions
+
+## Datatypes
+
+## I/O operations
