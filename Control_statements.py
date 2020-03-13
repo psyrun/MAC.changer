@@ -20,7 +20,11 @@
 # print("exit")
 
 #for
-count 
+count = int(input())
+for i in range(count):
+    print("For Loop",i)
+
+
 
 
 #Do while
