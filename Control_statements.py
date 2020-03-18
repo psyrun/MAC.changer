@@ -19,10 +19,10 @@
 #     count = count +1
 # print("exit")
 
-#for
-count = int(input())
-for i in range(count):
-    print("For Loop",i)
+# #for
+# count = int(input())
+# for i in range(count):
+#     print("For Loop",i)
 
 
 

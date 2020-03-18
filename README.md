@@ -27,3 +27,7 @@ This repository belongs to those who want to learn reverse engineering specially
 ## Datatypes
 
 ## I/O operations
+
+From now lets do some real White Hat stuff
+
+## Change MAC Address
