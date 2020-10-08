@@ -1,4 +1,4 @@
-# Python programming from zero to zerodays
+# Zero to Zer0days.py
 
 This repository belongs to those who want to learn reverse engineering specially with python.
 
