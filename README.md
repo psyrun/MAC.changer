@@ -7,11 +7,15 @@
 
 * To protect our computing device from being recognized on a network. 
 * This provide a greater level of anonymity over the internet.
-
-## Check your interfaces
-* ```anon@localhost$ ifconfig
-     anon@localhost$ 
-```
 * This gives information about network cards and MAC addresses of the interface.
+
+## Change your MAC maually
+ ```bash
+    anon@localhost$ ifconfig
+    anon@localhost$ ifconfig eth0 down 
+    anon@localhost$ ifconfig eth0 hw ether 00:00:44:55:22:00
+    anon@localhost$ ifconfig eth0 up
+ ```
+
 ## 
 
