@@ -8,4 +8,10 @@
 * To protect our computing device from being recognized on a network. 
 * This provide a greater level of anonymity over the internet.
 
+## Check your interfaces
+* ```anon@localhost$ ifconfig
+     anon@localhost$ 
+```
+* This gives information about network cards and MAC addresses of the interface.
 ## 
+
